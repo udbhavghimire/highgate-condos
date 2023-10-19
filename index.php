@@ -420,7 +420,7 @@ This location is in the Lundy neighborhood in Calgary
 
                         </div>
                     </div>
-                    <div class="col-md-4 py-md-5 py-5 center-sm px-md-5 px-5 ">
+                    <div class="col-md-5 py-md-5 py-5 center-sm px-md-5 px-5 ">
                         <div>
                             <h5 class="text-dark fw-bold mt-3 mb-3 ">About Highgate Condos</h5>
                             <div class="list d-block ">
