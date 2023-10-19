@@ -178,7 +178,7 @@
                         </p>
 
                         <p class="mybot pb-md-0 pb-0 ">
-                            <span class="fw-bold">  Beedrooms: </span> 1 - 3
+                            <span class="fw-bold">  Bedrooms: </span> 1 - 3
                         </p>
 
 
@@ -412,13 +412,13 @@ This location is in the Lundy neighborhood in Calgary
                         </p>
                         <span class="sm-text justifyy text-secondary">
                         We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.. Not intended to solicit those under contract with another brokerage. All inquiries will go to Dolphin Realty Inc., Brokerage.</span>
-                        <!-- <div class="list pt-md-5 pt-3 d-md-block d-none">
+                        <div class="list pt-md-5 pt-3 d-md-block d-none">
                             <p class="">
-                                Website designed by
-                                <a href="https://www.sixdesign.ca/" target="_blank" class="text-dark text-decoration-none"><strong>SixDesign.</strong></a>
+                            Website owned by
+                                <a href="https://dolphy.ca/" target="_blank" class="text-dark text-decoration-none"><strong>Dolphy.ca</strong></a>
                             </p>
 
-                        </div> -->
+                        </div>
                     </div>
                     <div class="col-md-4 py-md-5 py-5 center-sm px-md-5 px-5 ">
                         <div>
@@ -446,12 +446,13 @@ This location is in the Lundy neighborhood in Calgary
                     </div>
                 </div>
 
-                <!-- <div class="list mt-5 pt-md-5 pt-3 d-md-none d-block center-sm">
-                    <p class="">
-                        Website designed by <a href="https://www.sixdesign.ca/" target="_blank" class="text-dark text-decoration-none"><strong>SixDesign.</strong</a>
-                    </p>
+                <div class="list mt-5 pt-md-5 pt-3 d-md-none d-block center-sm">
+                <p class="">
+                            Website owned by
+                                <a href="https://dolphy.ca/" target="_blank" class="text-dark text-decoration-none"><strong>Dolphy.ca</strong></a>
+                </p>
 
-                </div> -->
+                </div>
 
             </div>
         </footer>
