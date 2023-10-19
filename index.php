@@ -411,14 +411,14 @@ This location is in the Lundy neighborhood in Calgary
                             <h1 class="navbar-brand-foot fs-4 "><a href="https://homebaba.ca/calgary/highgate-condos" target="_blank" class = "text-dark text-decoration-none">Highgate Condos</a></h1>
                         </p>
                         <span class="sm-text justifyy text-secondary">
-                        We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.. Not intended to solicit those under contract with another brokerage. All inquiries will go to Sam Valji, Sales Representative from Bay Street Group Inc. Email: samvalji.homebaba@gmail.com</span>
-                        <div class="list pt-md-5 pt-3 d-md-block d-none">
+                        We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.. Not intended to solicit those under contract with another brokerage. All inquiries will go to Dolphin Realty Inc., Brokerage.</span>
+                        <!-- <div class="list pt-md-5 pt-3 d-md-block d-none">
                             <p class="">
                                 Website designed by
                                 <a href="https://www.sixdesign.ca/" target="_blank" class="text-dark text-decoration-none"><strong>SixDesign.</strong></a>
                             </p>
 
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-md-4 py-md-5 py-5 center-sm px-md-5 px-5 ">
                         <div>
@@ -446,12 +446,12 @@ This location is in the Lundy neighborhood in Calgary
                     </div>
                 </div>
 
-                <div class="list mt-5 pt-md-5 pt-3 d-md-none d-block center-sm">
+                <!-- <div class="list mt-5 pt-md-5 pt-3 d-md-none d-block center-sm">
                     <p class="">
                         Website designed by <a href="https://www.sixdesign.ca/" target="_blank" class="text-dark text-decoration-none"><strong>SixDesign.</strong</a>
                     </p>
 
-                </div>
+                </div> -->
 
             </div>
         </footer>
