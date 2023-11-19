@@ -351,9 +351,11 @@
     <section>
         <div class="container py-md-5">
             <a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class="text-decoration-none">
-            <h3 class ="d-flex justify-content-center align-items-center py-5 text-center fw-bold fs-2">Check out Dolphy for Pre Construction Homes in Calgary</h3>
+            <h3 class ="d-flex justify-content-center pt-5 text-center fw-bold fs-2">Check out Dolphy for Pre Construction Homes in Calgary</h3>
             </a>
-        </div>
+            <p class=" text-center d-flex justify-content-center pb-3 mx-width fs-5 px-2">Dolphy.ca is a canada's leading platform for pre construction townhomes, condos & detached homes in Calgary. Dolphy has the most updated information on upcoming and new projects happening in Calgary. 
+                </p>
+ </div>
     </section>
 
     <section>

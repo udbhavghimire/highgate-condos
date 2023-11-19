@@ -199,31 +199,32 @@
     margin-bottom: 3px !important;
 }
 
+.mx-width {
+    max-width: 800px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 @media (max-width: 768px) {
     .main-title {
         font-size: 28px !important;
     }
-
     #hero h1 {
         font-size: 52px;
         line-height: 46px;
     }
-
     .center-sm {
         text-align: center;
     }
-
     .regoimg {
         height: 50px;
     }
-
     .bg-img {
         height: 600px !important;
         object-fit: cover;
         width: 100%;
         border-radius: 15px;
     }
-
     .textt {
         font-size: 20px;
         max-width: 940px;
