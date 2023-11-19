@@ -347,6 +347,15 @@
         </div>
     </section>
 
+
+    <section>
+        <div class="container py-md-5">
+            <a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class="text-decoration-none">
+            <h3 class ="d-flex justify-content-center align-items-center py-5 text-center fw-bold fs-2">Check out Dolphy for Pre Construction Homes in Calgary</h3>
+            </a>
+        </div>
+    </section>
+
     <section>
         <div class="pt-5" id="Contact">
             <div class="pt-5 mt-5">
@@ -417,7 +426,7 @@
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3  center-sm px-4 px-md-0">
                     <p class=" ">
-                    <h1 class="navbar-brand-foot fs-4 "><a href="https://homebaba.ca/calgary/highgate-condos" target="_blank" class="text-dark text-decoration-none">Highgate Condos</a></h1>
+                    <h1 class="navbar-brand-foot fs-4 "><a href="https://dolphy.ca/pre-construction-homes/calgary/highgate-condos" target="_blank" class="text-dark text-decoration-none">Highgate Condos</a></h1>
                     </p>
                     <span class="sm-text justifyy text-secondary">
                         We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.. Not intended to solicit those under contract with another brokerage. All inquiries will go to Dolphin Realty Inc., Brokerage.</span>
