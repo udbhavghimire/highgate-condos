@@ -9,7 +9,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="Author" content="Highgate Condos" />
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/silverBox.min.css">
@@ -19,8 +20,10 @@
 
     <title>Highgate Condos Calgary | Starting from $350's - Register Today</title>
     <meta name="title" content="Highgate Condos Calgary | Starting from $350's - Register Today">
-    <meta name="description" content="Highgate Condos Calgary, a development by Truman, is an upcoming condo in Calgary, located on 8 Ave NE and Range Rd 285, Calgary The project is expected to be completed in 2028.">
-    <meta name="keywords" content="Highgate Condos, Highgate Condos town, Highgate Condos Calgary, Condos in Calgary, Highgate Condos Truman, Truman">
+    <meta name="description"
+        content="Highgate Condos Calgary, a development by Truman, is an upcoming condo in Calgary, located on 8 Ave NE and Range Rd 285, Calgary The project is expected to be completed in 2028.">
+    <meta name="keywords"
+        content="Highgate Condos, Highgate Condos town, Highgate Condos Calgary, Condos in Calgary, Highgate Condos Truman, Truman">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
@@ -42,6 +45,18 @@
             "url": "https://highgatecondos.ca/"
         }
     </script>
+    <!-- begin Widget Tracker Code -->
+    <script>
+        (function (w, i, d, g, e, t) {
+            w["WidgetTrackerObject"] = g; (w[g] = w[g] || function () { (w[g].q = w[g].q || []).push(arguments); }), (w[g].ds = 1 * new Date()); (e = "script"),
+                (t = d.createElement(e)), (e = d.getElementsByTagName(e)[0]); t.async = 1; t.src = i;
+            e.parentNode.insertBefore(t, e);
+        })
+            (window, "https://widgetbe.com/agent", document, "widgetTracker");
+        window.widgetTracker("create", "WT-KPVDOHAU");
+        window.widgetTracker("send", "pageview");
+    </script>
+    <!-- end Widget Tracker Code -->
 </head>
 
 <body>
@@ -54,7 +69,9 @@
                 <a href="#Contact" class="btn call-btn d-block d-md-none btn-sm py-2">
                     Register Now
                 </a>
-                <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
                     <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M0 12H18V10H0V12ZM0 7H18V5H0V7ZM0 0V2H18V0H0Z" fill="black" />
                     </svg>
@@ -117,10 +134,15 @@
                                         $749.9k - High $949.9k
                                     </h3> -->
                                     <h1 class=" fw-bold center-sm main-title">Highgate Condos Calgary</h1>
-                                    <h2 class="headline-textt headline-textt-sm pb-3 fw-bold fs-5 center-sm">Pricing starting from low <span style="color:red;"> $350's!</span> </h2>
+                                    <h2 class="headline-textt headline-textt-sm pb-3 fw-bold fs-5 center-sm">Pricing
+                                        starting from low <span style="color:red;"> $350's!</span> </h2>
                                     <h2 class="headline-textt headline-textt-sm">
 
-                                        <span class="fw-bold">Highgate Condos</span>, a pre construction condo project by Truman, is an upcoming condominium development in Calgary. It's located at 8 Ave NE and Range Rd 285, on the eastern side of Calgary. This residential community boasts a beautifully designed 13-acre green space, featuring parks and trails. The project is anticipated to be finished by 2028.
+                                        <span class="fw-bold">Highgate Condos</span>, a pre construction condo project
+                                        by Truman, is an upcoming condominium development in Calgary. It's located at 8
+                                        Ave NE and Range Rd 285, on the eastern side of Calgary. This residential
+                                        community boasts a beautifully designed 13-acre green space, featuring parks and
+                                        trails. The project is anticipated to be finished by 2028.
                                         <div class="list d-block headline-textt pt-4">
                                             <p class="mybot pb-md-0 pb-0 ">
                                                 Builder: Truman
@@ -141,7 +163,8 @@
                         </div>
                     </div>
                     <div class="col position-relative order-1 order-md-2">
-                        <img src="./images/truman_highgate_coming_soon_bg1.jpg" class="img-fluid" id="myVideo" alt="Highgate Condos">
+                        <img src="./images/truman_highgate_coming_soon_bg1.jpg" class="img-fluid" id="myVideo"
+                            alt="Highgate Condos">
                     </div>
                 </div>
 
@@ -155,7 +178,8 @@
                         Details About Highgate Condos in Calgary
                     </h2>
                     <p class="textt justify-content-center brand-color center-sm">
-                        Highgate Condos in Calgary is a Brand New Pre construction Condo development by Truman, Located at 8 Ave NE and Range Rd 285, in Calgary.
+                        Highgate Condos in Calgary is a Brand New Pre construction Condo development by Truman, Located
+                        at 8 Ave NE and Range Rd 285, in Calgary.
                     </p>
                 </div>
                 <div class="d-flex justify-content-center text-center textt">
@@ -280,10 +304,14 @@
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color">
                     <span class="mx-1">Highgate Condos - Location </span>
                 </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">8 Ave NE and Range Rd 285, Calgary, AB</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">8 Ave NE and
+                    Range Rd 285, Calgary, AB</span>
                 <div>
                     <div class="bg-white p-1   rounded-mine d-flex justify-content-center">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2507.636271702805!2d-113.8886664!3d51.059803599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53717c9557013ca1%3A0xecbc0e113afa4f5a!2sRange%20Rd%20285%20%26%208%20Ave%20NE%2C%20Calgary%2C%20AB%20T1X%200L4%2C%20Canada!5e0!3m2!1sen!2snp!4v1697635413444!5m2!1sen!2snp" width="95%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2507.636271702805!2d-113.8886664!3d51.059803599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53717c9557013ca1%3A0xecbc0e113afa4f5a!2sRange%20Rd%20285%20%26%208%20Ave%20NE%2C%20Calgary%2C%20AB%20T1X%200L4%2C%20Canada!5e0!3m2!1sen!2snp!4v1697635413444!5m2!1sen!2snp"
+                            width="95%" height="550" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                     </div>
                 </div>
@@ -296,33 +324,66 @@
         <div class="container pt-md-5 pt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <div class="pt-md-5 pt-4"></div>
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center">
-                <span class="mx-1 pb-3 d-flex justify-content-center align-items-center">Walk Score <img src="./images/person-walking.gif" class="walk-animation img-fluid"></span>
+                <span class="mx-1 pb-3 d-flex justify-content-center align-items-center">Walk Score <img
+                        src="./images/person-walking.gif" class="walk-animation img-fluid"></span>
             </h2>
 
             <div class="d-flex justify-content-center p-1">
                 <div style="padding: 0; margin: 0; border: 0; outline: 0; width: 300px; border: 1px solid #999;">
                     <div style="border:0;outline:0;padding:0; margin: 11px 9px 0;">
-                        <h2 style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; font:15px/19px 'Arial Black', Gadget, sans-serif; font-weight: normal; color: #222;"> 9350 Venture Avenue Southeast </h2>
-                        <h3 style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; font:12px/14px Verdana, Arial, Helvetica, sans-serif; font-weight: bold; color: #666; margin: 2px 0 4px 0;"> Car-Dependent </h3>
-                        <div style="padding: 0; margin: 0; border: 0; outline: 0; position: relative; width: 100%; padding-bottom: 30%">
-                            <div style="padding: 0; margin: 0; border: 0; outline: 0; position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> <a rel="nofollow" href="https://www.walkscore.com/score/T1X-0L4?utm_source=badge&utm_medium=responsive&utm_campaign=badge"><!--[if lte IE 8]><img src="//pp.walk.sc/badge/walk/T1X-0L4.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Walk Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]--> <!--[if gt IE 8]><img src="//pp.walk.sc/badge/walk/T1X-0L4.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Walk Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]--> <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/walk/T1X-0L4.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;' alt="Walk Score of 9350 Venture Avenue Southeast Calgary AB Canada"><!-- <![endif]--><!--[if lte IE 8]><img src="//pp.walk.sc/badge/transit/T1X-0L4.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Transit Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]--> <!--[if gt IE 8]><img src="//pp.walk.sc/badge/transit/T1X-0L4.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Transit Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]--> <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/transit/T1X-0L4.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;' alt="Transit Score of 9350 Venture Avenue Southeast Calgary AB Canada"><!-- <![endif]--><!--[if lte IE 8]><img src="//pp.walk.sc/badge/bike/T1X-0L4.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Bike Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]--> <!--[if gt IE 8]><img src="//pp.walk.sc/badge/bike/T1X-0L4.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Bike Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]--> <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/bike/T1X-0L4.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;' alt="Bike Score of 9350 Venture Avenue Southeast Calgary AB Canada"><!-- <![endif]--></a></div>
+                        <h2
+                            style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; font:15px/19px 'Arial Black', Gadget, sans-serif; font-weight: normal; color: #222;">
+                            9350 Venture Avenue Southeast </h2>
+                        <h3
+                            style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; font:12px/14px Verdana, Arial, Helvetica, sans-serif; font-weight: bold; color: #666; margin: 2px 0 4px 0;">
+                            Car-Dependent </h3>
+                        <div
+                            style="padding: 0; margin: 0; border: 0; outline: 0; position: relative; width: 100%; padding-bottom: 30%">
+                            <div
+                                style="padding: 0; margin: 0; border: 0; outline: 0; position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
+                                <a rel="nofollow"
+                                    href="https://www.walkscore.com/score/T1X-0L4?utm_source=badge&utm_medium=responsive&utm_campaign=badge"><!--[if lte IE 8]><img src="//pp.walk.sc/badge/walk/T1X-0L4.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Walk Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]-->
+                                    <!--[if gt IE 8]><img src="//pp.walk.sc/badge/walk/T1X-0L4.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Walk Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]-->
+                                    <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/walk/T1X-0L4.svg"
+                                        style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'
+                                        alt="Walk Score of 9350 Venture Avenue Southeast Calgary AB Canada"><!-- <![endif]--><!--[if lte IE 8]><img src="//pp.walk.sc/badge/transit/T1X-0L4.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Transit Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]-->
+                                    <!--[if gt IE 8]><img src="//pp.walk.sc/badge/transit/T1X-0L4.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Transit Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]-->
+                                    <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/transit/T1X-0L4.svg"
+                                        style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'
+                                        alt="Transit Score of 9350 Venture Avenue Southeast Calgary AB Canada"><!-- <![endif]--><!--[if lte IE 8]><img src="//pp.walk.sc/badge/bike/T1X-0L4.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Bike Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]-->
+                                    <!--[if gt IE 8]><img src="//pp.walk.sc/badge/bike/T1X-0L4.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Bike Score of 9350 Venture Avenue Southeast Calgary AB Canada"><![endif]-->
+                                    <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/bike/T1X-0L4.svg"
+                                        style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'
+                                        alt="Bike Score of 9350 Venture Avenue Southeast Calgary AB Canada"><!-- <![endif]--></a>
+                            </div>
                         </div>
-                        <p style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; color: #999; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px; clear:both; padding: 8px 0;"><a rel="nofollow" style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; color: #999; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px;" target="_blank" href="https://www.walkscore.com/CA-AB/Calgary?utm_source=badge&utm_medium=responsive&utm_campaign=badge">Explore Calgary on Walk Score</a><img style="visibility: hidden;" width=1 height=1 src="https://corvair.monolith.us-west-2.prod.rdfn.net/rift?ev=external_web&p=walkscore&s=score_badge&a=impression" /> </p>
+                        <p
+                            style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; color: #999; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px; clear:both; padding: 8px 0;">
+                            <a rel="nofollow"
+                                style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; color: #999; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px;"
+                                target="_blank"
+                                href="https://www.walkscore.com/CA-AB/Calgary?utm_source=badge&utm_medium=responsive&utm_campaign=badge">Explore
+                                Calgary on Walk Score</a><img style="visibility: hidden;" width=1 height=1
+                                src="https://corvair.monolith.us-west-2.prod.rdfn.net/rift?ev=external_web&p=walkscore&s=score_badge&a=impression" />
+                        </p>
                     </div>
                 </div>
             </div>
 
 
             <div class="pt-4 ">
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 textt">(Highgate Condos Calgary)
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 textt">(Highgate
+                    Condos Calgary)
 
-                    This location has a Walk Score of 7 out of 100. This location is a Car-Dependent neighborhood so almost all errands require a car.
+                    This location has a Walk Score of 7 out of 100. This location is a Car-Dependent neighborhood so
+                    almost all errands require a car.
 
                     This location is in the Lundy neighborhood in Calgary
 
                 </span>
 
-                <span class="small-text  d-flex justify-content-center text-center"> *Disclaimer : Reference purpose only. Result based on walkscore might not be 100 percent accurate</span>
+                <span class="small-text  d-flex justify-content-center text-center"> *Disclaimer : Reference purpose
+                    only. Result based on walkscore might not be 100 percent accurate</span>
 
             </div>
         </div>
@@ -336,13 +397,18 @@
                 <p class="fw-bold fs-1 mb-0 text-center justify-content-center">
                     <span class="mx-1 pb-3">Street View</span> </span>
                 </p>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Walk around the neighbourhood near Highgate Condos</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Walk
+                    around the neighbourhood near Highgate Condos</span>
 
                 <div class="p-1  d-flex justify-content-center">
-                    <iframe src="https://www.google.com/maps/embed?pb=!4v1697635608228!6m8!1m7!1sBFmpTRSWVqRM3O8DDtfHtA!2m2!1d51.05978032837996!2d-113.8886595478118!3f316.2774967345621!4f3.748739865771242!5f0.4000000000000002" width="95%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!4v1697635608228!6m8!1m7!1sBFmpTRSWVqRM3O8DDtfHtA!2m2!1d51.05978032837996!2d-113.8886595478118!3f316.2774967345621!4f3.748739865771242!5f0.4000000000000002"
+                        width="95%" height="550" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                 </div>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Note : The exact location of the project may vary from the street view shown here</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Note : The
+                    exact location of the project may vary from the street view shown here</span>
             </div>
         </div>
     </section>
@@ -351,11 +417,14 @@
     <section>
         <div class="container py-md-5">
             <a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class="text-decoration-none">
-            <h3 class ="d-flex justify-content-center pt-5 text-center fw-bold fs-2">Check out Dolphy for Pre Construction Homes in Calgary</h3>
+                <h3 class="d-flex justify-content-center pt-5 text-center fw-bold fs-2">Check out Dolphy for Pre
+                    Construction Homes in Calgary</h3>
             </a>
-            <p class=" text-center d-flex justify-content-center pb-3 mx-width fs-5 px-2">Dolphy.ca is a canada's leading platform for pre construction townhomes, condos & detached homes in Calgary. Dolphy has the most updated information on upcoming and new projects happening in Calgary. 
-                </p>
- </div>
+            <p class=" text-center d-flex justify-content-center pb-3 mx-width fs-5 px-2">Dolphy.ca is a canada's
+                leading platform for pre construction townhomes, condos & detached homes in Calgary. Dolphy has the most
+                updated information on upcoming and new projects happening in Calgary.
+            </p>
+        </div>
     </section>
 
     <section>
@@ -375,22 +444,26 @@
 
                         <form action="./contactForm.php" method="POST">
                             <div class="row">
-                                <div class="mb-3"><input type="text" placeholder="Name" name="name" id="name" class="fields" required></div>
+                                <div class="mb-3"><input type="text" placeholder="Name" name="name" id="name"
+                                        class="fields" required></div>
 
                             </div>
                             <div class="row row-cols-1 row-cols-sm-2 ">
                                 <div class="col">
-                                    <div class="mb-3 "><input type="text" aria-describedby="emailHelp" placeholder="Phone" name="phone" id="phone" class="fields" required></div>
+                                    <div class="mb-3 "><input type="text" aria-describedby="emailHelp"
+                                            placeholder="Phone" name="phone" id="phone" class="fields" required></div>
                                 </div>
                                 <div class="col ">
-                                    <div class="mb-3"><input type="text" aria-describedby="emailHelp" placeholder="Email" name="email" id="email" class="fields" required></div>
+                                    <div class="mb-3"><input type="text" aria-describedby="emailHelp"
+                                            placeholder="Email" name="email" id="email" class="fields" required></div>
                                 </div>
                             </div>
                             <div class="row me-0 row-cols-1">
                                 <div class="col">
                                     <div class="mb-3">
                                         <div class="form-floating">
-                                            <select class="form-select" name="realtor" id="realtor" aria-label="Floating label select example" required>
+                                            <select class="form-select" name="realtor" id="realtor"
+                                                aria-label="Floating label select example" required>
                                                 <option value="No">No</option>
                                                 <option value="Yes">Yes</option>
                                             </select>
@@ -400,10 +473,13 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class=" "><textarea name="message" id="message" placeholder="Enter your message" class="fields mess" required></textarea></div>
+                                <div class=" "><textarea name="message" id="message" placeholder="Enter your message"
+                                        class="fields mess" required></textarea></div>
                             </div>
                             <div class="row">
-                                <p class="text-muted sm-text text-center mt-0">*I consent to receive future communications about Highgate Condos. I understand I can opt out at anytime by sending an email.</p>
+                                <p class="text-muted sm-text text-center mt-0">*I consent to receive future
+                                    communications about Highgate Condos. I understand I can opt out at anytime by
+                                    sending an email.</p>
                             </div>
                             <div class="row">
                                 <div class="col text-center">
@@ -428,14 +504,22 @@
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3  center-sm px-4 px-md-0">
                     <p class=" ">
-                    <h1 class="navbar-brand-foot fs-4 "><a href="https://dolphy.ca/pre-construction-homes/calgary/highgate-condos" target="_blank" class="text-dark text-decoration-none">Highgate Condos</a></h1>
+                    <h1 class="navbar-brand-foot fs-4 "><a
+                            href="https://dolphy.ca/pre-construction-homes/calgary/highgate-condos" target="_blank"
+                            class="text-dark text-decoration-none">Highgate Condos</a></h1>
                     </p>
                     <span class="sm-text justifyy text-secondary">
-                        We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.. Not intended to solicit those under contract with another brokerage. All inquiries will go to Dolphin Realty Inc., Brokerage.</span>
+                        We do not represent the builder. Information provided on this website is gathered from publicly
+                        available websites. The information might not be updated and could include inaccurate or
+                        outdated information such as location, pricing, availability, floor plans etc. The logos, images
+                        and renderings might be protected by copyright owned by the builders.. Not intended to solicit
+                        those under contract with another brokerage. All inquiries will go to Dolphin Realty Inc.,
+                        Brokerage.</span>
                     <div class="list pt-md-5 pt-3 d-md-block d-none">
                         <p class="">
                             Website owned by
-                            <a href="https://dolphy.ca/" target="_blank" class="text-dark text-decoration-none"><strong>Dolphy.ca</strong></a>
+                            <a href="https://dolphy.ca/" target="_blank"
+                                class="text-dark text-decoration-none"><strong>Dolphy.ca</strong></a>
                         </p>
 
                     </div>
@@ -469,7 +553,8 @@
             <div class="list mt-5 pt-md-5 pt-3 d-md-none d-block center-sm">
                 <p class="">
                     Website owned by
-                    <a href="https://dolphy.ca/" target="_blank" class="text-dark text-decoration-none"><strong>Dolphy.ca</strong></a>
+                    <a href="https://dolphy.ca/" target="_blank"
+                        class="text-dark text-decoration-none"><strong>Dolphy.ca</strong></a>
                 </p>
 
             </div>
@@ -482,7 +567,7 @@
     if (
         isset($_SESSION['success'])
     ) {
-    ?>
+        ?>
         <script type="text/javascript" async>
             silverBox({
                 title: {
@@ -492,14 +577,14 @@
                 text: "Your Message has been received.\n We'll get back to you soon.",
             });
         </script>
-    <?php
+        <?php
         unset($_SESSION['success']);
     }
 
     if (
         isset($_SESSION['error'])
     ) {
-    ?>
+        ?>
         <script type="text/javascript" async>
             silverBox({
                 title: {
@@ -509,12 +594,14 @@
                 text: "Your Message has not been received.",
             });
         </script>
-    <?php
+        <?php
         unset($_SESSION['error']);
     }
     ?>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
 </body>
 
 </html>
